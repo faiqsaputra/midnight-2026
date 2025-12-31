@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f5d76e"/>
+      <stop offset="50%" stop-color="#d4af37"/>
+      <stop offset="100%" stop-color="#f5d76e"/>
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="50" r="45" fill="#0b0b0e"/>
+  <text x="50%" y="58%" text-anchor="middle" font-size="42" font-weight="700"
+        fill="url(#gold)" font-family="Poppins, sans-serif">
+    26
+  </text>
+</svg>
